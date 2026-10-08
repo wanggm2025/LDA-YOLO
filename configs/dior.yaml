@@ -1,0 +1,25 @@
+path: ../datasets/DIOR
+train: images/train
+val: images/val
+names:
+  - airplane
+  - airport
+  - baseballfield
+  - basketballcourt
+  - bridge
+  - chimney
+  - dam
+  - expressway-service-area
+  - expressway-toll-station
+  - golffield
+  - groundtrackfield
+  - harbor
+  - overpass
+  - ship
+  - stadium
+  - storagetank
+  - tenniscourt
+  - trainstation
+  - vehicle
+  - windmill
+

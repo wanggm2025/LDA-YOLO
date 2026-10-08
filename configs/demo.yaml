@@ -1,0 +1,8 @@
+path: ../demo_data
+train: images/train
+val: images/val
+names:
+  - red_object
+  - blue_object
+  - yellow_object
+

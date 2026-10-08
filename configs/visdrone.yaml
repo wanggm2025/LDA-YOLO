@@ -1,0 +1,15 @@
+path: ../datasets/VisDrone2019
+train: images/train
+val: images/val
+names:
+  - pedestrian
+  - people
+  - bicycle
+  - car
+  - van
+  - truck
+  - tricycle
+  - awning-tricycle
+  - bus
+  - motor
+
